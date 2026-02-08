@@ -2,17 +2,17 @@
 
 ## 👋 Hi, I'm Chiheb Kitar
 
-🧠 **AI Engineer** with strong **MLOps & DevOps** background, focused on building **intelligent systems**, **LLM-powered applications**, and **scalable AI infrastructure**.
+🧠 **AI Engineer** with strong **MLOps & DevOps** foundations, specialized in building **LLM-powered systems**, **intelligent agents**, and **scalable AI platforms**.
 
-My expertise is **AI-first**: designing, training, evaluating, and deploying models that work reliably in production.
+I design AI systems that don’t just work in notebooks — they **survive production**.
 
 ---
 
 ## 🧠 What I Do (AI-First)
 
 - 🤖 Build **LLM-based systems** (RAG, agents, prompt pipelines)
-- 🧠 Develop ML models for **NLP, CV, and predictive systems**
-- 📦 Turn models into **production-ready AI services**
+- 🧠 Develop ML solutions for **NLP, CV, and predictive analytics**
+- 🧪 Evaluate, fine-tune, and optimize models
 - 🔁 Design **MLOps pipelines** (training → evaluation → deployment)
 - ☁️ Support AI systems with **cloud-native DevOps**
 
@@ -31,6 +31,7 @@ My expertise is **AI-first**: designing, training, evaluating, and deploying mod
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5A67D8?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent%20Systems-purple?style=for-the-badge)
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
@@ -87,13 +88,17 @@ My expertise is **AI-first**: designing, training, evaluating, and deploying mod
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitarChiheb&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KitarChiheb&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 🧭 Engineering Principles
 
 - AI-first system design
 - Evaluation before deployment
-- Automation & reproducibility
+- Reproducibility & automation
 - Scalable inference
 - Security & observability by default
 
