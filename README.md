@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Chiheb%20Kitar&fontSize=50&fontColor=ffffff&desc=AI%20%7C%20DevOps%20%7C%20MLOps%20Engineer&descAlignY=65)
+
 ## Hi there 👋
 
 <!--
