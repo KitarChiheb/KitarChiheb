@@ -1,45 +1,68 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Chiheb%20Kitar&fontSize=50&fontColor=ffffff&desc=AI%20%7C%20DevOps%20%7C%20MLOps%20Engineer&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Chiheb%20Kitar&fontSize=50&fontColor=ffffff&desc=AI%20Engineer%20%7C%20MLOps%20%7C%20DevOps&descAlignY=68)
 
 ## 👋 Hi, I'm Chiheb Kitar
 
-🚀 **AI / DevOps / MLOps Engineer** specialized in building **scalable machine learning systems**, **cloud-native infrastructure**, and **production-ready AI pipelines**.
+🧠 **AI Engineer** with strong **MLOps & DevOps** background, focused on building **intelligent systems**, **LLM-powered applications**, and **scalable AI infrastructure**.
 
-I focus on turning ML models into **reliable, automated, and secure services** that run at scale.
+My expertise is **AI-first**: designing, training, evaluating, and deploying models that work reliably in production.
 
 ---
 
-## 🧠 What I Do
+## 🧠 What I Do (AI-First)
 
-- 🤖 Design & deploy Machine Learning and LLM systems
-- 🔁 Build end-to-end MLOps pipelines (training → registry → deployment)
-- ☁️ Architect cloud-native infrastructure using Kubernetes
-- 🚀 Automate CI/CD workflows for ML & backend systems
-- 📊 Monitor, secure, and optimize production workloads
+- 🤖 Build **LLM-based systems** (RAG, agents, prompt pipelines)
+- 🧠 Develop ML models for **NLP, CV, and predictive systems**
+- 📦 Turn models into **production-ready AI services**
+- 🔁 Design **MLOps pipelines** (training → evaluation → deployment)
+- ☁️ Support AI systems with **cloud-native DevOps**
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🤖 AI & Machine Learning
+## 🤖 Artificial Intelligence & LLMs (Core Expertise)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=google&logoColor=white)
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5A67D8?style=for-the-badge)
+
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 
 ---
 
-### 🔁 MLOps
+## 🧠 AI Systems & Data
+
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF4F8B?style=for-the-badge)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## 🔁 MLOps (Production AI)
+
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge)
 
 ---
 
-### ☁️ DevOps & Cloud
+## ☁️ DevOps & Cloud (Supporting AI at Scale)
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -49,42 +72,43 @@ I focus on turning ML models into **reliable, automated, and secure services** t
 
 ---
 
-### 📊 Monitoring, Security & Data
+## 📊 Monitoring & Security
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Chiheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chihebkitar&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chihebkitar&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KitarChiheb&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitarChiheb&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🧭 Engineering Principles
 
-- Infrastructure as Code
-- Automation over manual work
-- Observability first
-- Security by design
-- Clean architecture & reproducibility
+- AI-first system design
+- Evaluation before deployment
+- Automation & reproducibility
+- Scalable inference
+- Security & observability by default
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/chiheb-kitar
-- 💻 GitHub: https://github.com/chihebkitar
-- 📧 Email: chiheb.kitar@gmail.com
+- 💻 GitHub: https://github.com/KitarChiheb
+- 💼 LinkedIn: https://www.linkedin.com/in/chiheb-kitar-06512619a/
+- 📧 Email: kitarchiheb11@gmail.com
 
 ---
 
 <p align="center">
-  <i>Building intelligent systems that scale.</i>
+  <i>Designing intelligent systems that survive production.</i>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
