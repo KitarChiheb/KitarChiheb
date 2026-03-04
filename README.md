@@ -22,7 +22,7 @@
 ```python
 class ChihebKitar:
     role        = "AI Engineer & MLOps Architect"
-    location    = "Tunisia 🇹🇳"
+    location    = ["Tunisia 🇹🇳", "France 🇫🇷"]
     focus       = ["LLM Systems", "Intelligent Agents", "MLOps"]
     mantra      = "AI that works in notebooks is a prototype."
     mantra     += " AI that works in production is engineering."
@@ -181,22 +181,36 @@ class ChihebKitar:
 
 ## 📊 GitHub Intelligence
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KitarChiheb&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=KitarChiheb&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=6e7681" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              ◈  METRICS DASHBOARD  ◈  KitarChiheb               ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitarChiheb&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KitarChiheb&theme=github_dark" width="98%" />
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=KitarChiheb&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=KitarChiheb&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=6e7681&cache_seconds=1800" width="49%" />
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KitarChiheb&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KitarChiheb&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KitarChiheb&theme=github_dark&utcOffset=1" width="32%" />
 
-### 🏆 GitHub Trophies
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                  ◈  HALL OF ACHIEVEMENTS  ◈                      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KitarChiheb&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KitarChiheb&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📈 Contribution Activity
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                  ◈  CONTRIBUTION HEATMAP  ◈                      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-[![Chiheb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KitarChiheb&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Chiheb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KitarChiheb&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00d4ff&area=true&area_color=003d4d&hide_border=true&custom_title=Chiheb%27s%20Contribution%20Graph&title_color=00d4ff)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
