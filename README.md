@@ -2,7 +2,7 @@
 
 **AI Engineer · MLOps Architect · LLM Systems**
 
-France FR Tunisia 🇹🇳 · [LinkedIn](https://www.linkedin.com/in/chiheb-kitar-06512619a/) · [kitarchiheb11@gmail.com](mailto:kitarchiheb11@gmail.com)
+France 🇫🇷 Tunisia 🇹🇳 · [LinkedIn](https://www.linkedin.com/in/chiheb-kitar-06512619a/) · [kitarchiheb11@gmail.com](mailto:kitarchiheb11@gmail.com)
 
 ---
 
